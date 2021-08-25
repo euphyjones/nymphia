@@ -1,5 +1,6 @@
 body {
-    background: #e2e2e2;
+    background: -webkit-gradient(linear, left top, right top, from(#e7dae4), color-stop(50%, #fdfce6), to(#d6f6f8));
+    background: linear-gradient(to right, #e7dae4 0%, #fdfce6 50%, #d6f6f8 100%);
     font-family: 'Be Vietnam', sans-serif;
     font-size: 9px;
     color: #1d1d1d;
